@@ -8,6 +8,7 @@ Witaj w repozytorium, które zawiera zbiór zadań i lekcji z programowania. Jes
 2. Przejdź do zakładki `Issues` aby znaleźć listę aktualnych zadań.
 3. Sklonuj repozytorium na swoje urządzenie, aby rozpocząć pracę nad zadaniem.
 4. Po wykonaniu zadania, utwórz nowy branch i zrób Pull Request, aby przesłać swoje rozwiązanie.
+5. Skorzystaj z zakładki Wiki, aby znaleźć dodatkowe zasoby i wskazówki, które pomogą Ci w rozwiązywaniu zadań.
 
 ## Zasady
 - Utrzymuj kod w czystości i zgodnie z konwencjami.
